@@ -1,0 +1,10 @@
+* safe-queue
+
+Thread-safe queues and mailboxes
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/deadtrickster/safe-queue.git   |
+| commit  | e4acc92  |
+| systems | safe-queue |
+|---------+-------------------------------------------|
+
